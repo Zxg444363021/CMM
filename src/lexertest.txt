@@ -1,0 +1,18 @@
+int x;
+int[10] a;
+double y;
+if(x<y){
+x=100;
+y=200;
+}
+else
+x=50;
+while(x!=7){
+  a[4]=3;
+  x=x+1;
+  if(x==4) break;
+}
+read(x);
+read(a[9]);
+write(y-4);
+
